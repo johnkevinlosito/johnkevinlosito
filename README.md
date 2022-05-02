@@ -1,4 +1,4 @@
-![Introduction Banner](https://user-images.githubusercontent.com/48610130/166187291-a3c5fe4d-5232-446f-9ac4-ed9100522e5e.png)
+<img src="./intro-banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 ### Hi there 👋
 
