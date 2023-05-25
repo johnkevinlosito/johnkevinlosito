@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- :computer: I’m currently working as a **Front-end/React Developer**
-- :seedling: Currently learning **mobile development**
+- :computer: I’m currently working as a **Frontend Engineer**
+- :seedling: Continuosly upskilling in **cloud, devops, and mobile development**
 - :monocle_face: Interested in **Web, Mobile, Cloud, Devops**
 - :man_technologist: My portfolio is available at [johnkevinlosito.com](https://johnkevinlosito.com)
 
